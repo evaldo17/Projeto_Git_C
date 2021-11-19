@@ -1,0 +1,1 @@
+Olá!! Este é um projeto de exercicios em linguagem C
